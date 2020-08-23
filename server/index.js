@@ -11,6 +11,7 @@ const { error } = require('console');
 
 // db.authenticate()
 //     .then(() => console.log('DB Conectada'))
+
 //     .catch((error) => console.log(error))
 
 //configurar express
